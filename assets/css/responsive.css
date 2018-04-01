@@ -1,3 +1,48 @@
 /*******************************
 	All Responsive Code
 *******************************/
+
+/*******************************
+	All Responsive Code
+*******************************/
+
+/*Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) {
+
+}
+
+
+/*Large devices (desktops, less than 1200px)*/
+@media (max-width: 1199.98px) {
+
+}
+
+
+/*Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) {
+
+}
+
+
+/*Small devices (Tablet, landscape phones, less than 768px)*/
+@media (max-width: 767.98px) {
+
+}
+
+
+/*Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) {
+
+}
+
+
+/*Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) {
+
+}
+
+
+/* Wide Mobile Layout: 480px. */
+@media (min-width: 480px) and (max-width: 767px) { 
+
+}
